@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="#000000">
+<tr>
+<th bgcolor="#FFFFFF">Entry</th>
+
+<th bgcolor="#FFFFFF">Name</th>
+<th bgcolor="#FFFFFF">Description</th>
+<th bgcolor="#FFFFFF">Object</th>
+<th bgcolor="#FFFFFF">Legend</th>
+
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00010">saw00010</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Glycolysis / Gluconeogenesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Glycolysis is the process of converting glucose into pyruvate and generating small amounts of ATP (e...</td>
+<td class="data1" bgcolor="#FFFFFF">C00033 (Acetate) C00031 (D-Glucose) C00103 (D-Glucose 1-phosphate) C00631 (2-Phospho-D-glycerate) C0...</td>
+<td class="data1" bgcolor="#FFFFFF">4.1.2.13 1.2.1.3 6.2.1.13 1.2.1.5 Acetate Pentose  phosphate  pathway Starch and sucrose  metabolism...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00020">saw00020</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Citrate cycle (TCA cycle) - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The citrate cycle (TCA cycle, Krebs cycle) is an important aerobic pathway for the final steps of th...</td>
+<td class="data1" bgcolor="#FFFFFF">C00022 (Pyruvate) C00122 (Fumarate) C00036 (Oxaloacetate) C05379 (Oxalosuccinate) C00024 (Acetyl-CoA...</td>
+<td class="data1" bgcolor="#FFFFFF">1.3.99.1 1.2.7.3 1.8.1.4 1.2.4.2 1.2.4.2 2.3.1.61 6.2.1.5 6.2.1.4 1.1.1.42 1.1.1.41 1.1.1.42 2.3.3.8...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00030">saw00030</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Pentose phosphate pathway - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The pentose phosphate pathway is a process of glucose turnover that produces NADPH as reducing equiv...</td>
+<td class="data1" bgcolor="#FFFFFF">C01151 (D-Ribose 1,5-bisphosphate) C00668 (alpha-D-Glucose 6-phosphate) C00118 (D-Glyceraldehyde 3-p...</td>
+<td class="data1" bgcolor="#FFFFFF">2.7.4.23 5.3.1.9 4.1.2.14 Glycolysis 2.7.1.15 5.4.2.7 4.1.2.4 2.7.6.1 5.4.2.7 2.7.1.15 2.2.1.1 5.3.1...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00040">saw00040</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Pentose and glucuronate interconversions - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C14899 (3-Dehydro-L-gulonate 6-phosphate) C03033 (beta-D-Glucuronoside) C00085 (D-Fructose 6-phospha...</td>
+<td class="data1" bgcolor="#FFFFFF">3.2.1.15 3-Dehydro-L-gulonate-6P 4.1.1.85 2.7.1.53 β-D-Glucuronoside 3.2.1.31 D-Fructose-6P D-arabin...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00051">saw00051</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Fructose and mannose metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00247 (L-Sorbose) C00267 (alpha-D-Glucose) C01094 (D-Fructose 1-phosphate) C00159 (D-Mannose) C0027...</td>
+<td class="data1" bgcolor="#FFFFFF">1.1.1.281 2.7.1.69 Galactose  metabolism 1.1.99.21 1.1.1.21 1.1.1.14 5.3.1.5 2.7.1.3 5.3.1.7 1.1.1.1...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00052">saw00052</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Galactose metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C06311 (Galactitol 1-phosphate) C01216 (2-Dehydro-3-deoxy-D-galactonate) C00137 (myo-Inositol) C0009...</td>
+<td class="data1" bgcolor="#FFFFFF">1.1.1.251 2.7.1.69 3.2.1.22 2.7.1.144 2.7.1.11 4.1.2.40 4.1.2.21 3.2.1.85 3.2.1.22 3.2.1.26 2.4.1.67...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00053">saw00053</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Ascorbate and aldarate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00137 (myo-Inositol) C05385 (D-Glucuronate 1-phosphate) C00167 (UDP-glucuronate) C00029 (UDP-glucos...</td>
+<td class="data1" bgcolor="#FFFFFF">2.7.1.69 3.1.1.- 3.1.1.- 1.1.1.- 1.1.3.8 1.1.1.122 VTC4 2.7.7.69 5.1.3.18 5.1.3.18 5.1.3.18 1.13.99....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00061">saw00061</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Fatty acid biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C04088 (Octadecanoyl-[acyl-carrier protein]) C16221 ((2E)-Octadecenoyl-[acp]) C16220 (3-Hydroxyoctad...</td>
+<td class="data1" bgcolor="#FFFFFF">FabK FabK FabK FabK FabK FabK FabL Octadecanoyl-[acp] trans-Octadec-2-enoyl-[acp] (R)-3-Hydroxy-octa...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00071">saw00071</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Fatty acid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C02990 (L-Palmitoylcarnitine) C00638 (Long-chain fatty acid) C05280 (cis,cis-3,6-Dodecadienoyl-CoA) ...</td>
+<td class="data1" bgcolor="#FFFFFF">1.3.99.- 1.3.99.- 1.3.99.- 1.3.99.- 1.3.99.- 1.3.99.- 1.3.99.- 1.3.8.1 1.1.1.35 4.2.1.17 Synthesis a...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00072">saw00072</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Synthesis and degradation of ketone bodies - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00332 (Acetoacetyl-CoA) C00356 ((S)-3-Hydroxy-3-methylglutaryl-CoA) C00207 (Acetone) C00164 (Acetoa...</td>
+<td class="data1" bgcolor="#FFFFFF">SYNTHESIS  AND  DEGRADATION   OF  KETONE  BODIES Fatty acid metabolism 2.3.3.10 4.1.3.4 4.1.1.4 2.3....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00121">saw00121</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Secondary bile acid biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The secondary bile acids are derived from the primary bile acids by the enzymatic action of intestin...</td>
+<td class="data1" bgcolor="#FFFFFF">C17727 (omega-Muricholate) C03990 (Lithocholic acid) C05122 (Taurocholate) C05466 (Glycochenodeoxych...</td>
+<td class="data1" bgcolor="#FFFFFF">ω-Muricholate Lithocholate Taurocholate 3.5.1.24 Multi-step 7α-dehydroxylation Glycochenodeoxycholat...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00130">saw00130</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Ubiquinone and other terpenoid-quinone biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Ubiquinone (UQ), also called coenzyme Q, and plastoquinone (PQ) are electron carriers in oxidative p...</td>
+<td class="data1" bgcolor="#FFFFFF">C16519 (2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate) C03657 (1,4-Dihydroxy-2-naph...</td>
+<td class="data1" bgcolor="#FFFFFF">2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate 4.2.99.20 1,4-Dihydroxy-2-naphthoate ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00190">saw00190</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Oxidative phosphorylation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00061 (FMN) C00390 (Ubiquinol) C00399 (Ubiquinone) C00524 (Cytochrome c) C00080 (H+) C00080 (H+) C0...</td>
+<td class="data1" bgcolor="#FFFFFF">F-type ATPase (Eukaryotes) V-type ATPase (Prokaryotes) V-type ATPase (Eukaryotes) F-type ATPase (Bac...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00230">saw00230</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Purine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C12248 (5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate) C11821 (5-Hydroxyisourate) ...</td>
+<td class="data1" bgcolor="#FFFFFF">1.17.4.1 5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate 5-Hydroxyisourate 1.17.3.2 ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00240">saw00240</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Pyrimidine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C15607 (3-Oxo-3-ureidopropanoate) C00064 (L-Glutamine) C00438 (N-Carbamoyl-L-aspartate) C00169 (Carb...</td>
+<td class="data1" bgcolor="#FFFFFF">1.17.4.1 3-Oxo-3-ureido-propanoate 3.5.1.95 2.7.4.22 3.5.4.30 2.1.1.148 L-Glutamine 6.3.5.5 PYRIMIDI...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00250">saw00250</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Alanine, aspartate and glutamate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00122 (Fumarate) C00042 (Succinate) C00036 (Oxaloacetate) C00026 (2-Oxoglutarate) C00041 (L-Alanine...</td>
+<td class="data1" bgcolor="#FFFFFF">Fumarate Succinate Oxaloacetate 2-Oxo-glutarate Citrate cycle L-Alanine L-Aspartate L-Asparagine D-A...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00260">saw00260</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Glycine, serine and threonine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:M00020], and glycine...</td>
+<td class="data1" bgcolor="#FFFFFF">C16432 (5-Hydroxyectoine) C06231 (Ectoine) C06442 (N-gamma-Acetyldiaminobutyrate) C03283 (L-2,4-Diam...</td>
+<td class="data1" bgcolor="#FFFFFF">1.1.3.17 5.1.1.18 5-Hydroxyectoine EctD 1.14.15.7 L-Ectoine N-γ-Acetyl-L-2,4-diaminobutyrate L-2,4-D...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00270">saw00270</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Cysteine and methionine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Cysteine and methionine are sulfur-containing amino acids. Cysteine is synthesized from serine throu...</td>
+<td class="data1" bgcolor="#FFFFFF">C06547 (Ethylene) C01234 (1-Aminocyclopropane-1-carboxylate) C08276 (3-(Methylthio)propionic acid) C...</td>
+<td class="data1" bgcolor="#FFFFFF">2.5.1.- Ethylene 1-Aminocyclopropane-1-carboxylate 1.14.17.4 4.4.1.14 MtnE 3-Methylthio-propionate 1...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00280">saw00280</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Valine, leucine and isoleucine degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C15978 (2-Methyl-1-hydroxybutyl-ThPP) C15973 (Enzyme N6-(dihydrolipoyl)lysine) C15973 (Enzyme N6-(di...</td>
+<td class="data1" bgcolor="#FFFFFF">2-Methyl-1-hydroxybutyl-ThPP 1.2.4.4 1.8.1.4 Dihydro-lipoamide-E Dihydro-lipoamide-E Lipoamide-E Lip...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00281">saw00281</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Geraniol degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03069 (3-Methylcrotonyl-CoA) C16471 (5-Methyl-3-oxo-4-hexenoyl-CoA) C16469 (3-Hydroxy-5-methylhex-4...</td>
+<td class="data1" bgcolor="#FFFFFF">3-Methylcrotonyl-CoA 5-Methyl-3-oxo-4-hexenoyl-CoA 2.3.1.16 1.1.1.35 6.4.1.5 Valine, leucine and  is...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00290">saw00290</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Valine, leucine and isoleucine biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00188 (L-Threonine) C06032 (D-erythro-3-Methylmalate) C02226 (2-Methylmaleate) C02612 ((R)-2-Methyl...</td>
+<td class="data1" bgcolor="#FFFFFF">2.3.1.182 4.2.1.35 1.1.1.85 4.3.1.19 Threonine D-erythro-3-Methylmalate 2-Methyl-maleate (R)-2-Methy...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00300">saw00300</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Lysine biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C19889 (LysW-gamma-L-lysine) C19888 (LysW-gamma-L-alpha-aminoadipate 6-semialdehyde) C19887 (LysW-ga...</td>
+<td class="data1" bgcolor="#FFFFFF">2.6.1.83 Tropane, piperidine and pyridine alkaloid biosynthesis LysW-γ-L-lysine LysW-γ-L-α-aminoadip...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00310">saw00310</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Lysine degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C05825 (2-Amino-5-oxohexanoate) C05161 (2,5-Diaminohexanoate) C06181 (Piperideine) C00877 (Crotonoyl...</td>
+<td class="data1" bgcolor="#FFFFFF">2-Amino-5-oxohexanoate 2,5-Diamino-hexanoate 1-Piperideine 2.6.1.21 1.4.1.12 5.4.3.4 5.1.1.9 1.5.1.1...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00312">saw00312</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">beta-Lactam resistance - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00039 (DNA) C00039 (DNA) C03438 (beta-Lactam antibiotics) SAHV_2672 (drp35) SAHV_0040 (mecA) SAHV_0...</td>
+<td class="data1" bgcolor="#FFFFFF">DNA DNA β-Lactam Drp35 MecA MecI MecR1 BlaZ BlaI BlaR1 Penicillins and cephalosporins  biosynthesis ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00330">saw00330</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Arginine and proline metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03406 (N-(L-Arginino)succinate) C00327 (L-Citrulline) C00062 (L-Arginine) C00077 (L-Ornithine) C001...</td>
+<td class="data1" bgcolor="#FFFFFF">ARGININE  AND  PROLINE  METABOLISM L-Argino  succinate Citruline Arginine Ornithine Carbamoyl-P Glut...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00340">saw00340</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Histidine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00119 (5-Phospho-alpha-D-ribose 1-diphosphate) C02739 (1-(5-Phospho-D-ribosyl)-ATP) C02741 (Phospho...</td>
+<td class="data1" bgcolor="#FFFFFF">1.14.13.- 3.5.3.13 3.5.1.68 3.5.3.8 2.1.2.5 3.5.2.7 4.2.1.49 4.3.1.3 3.4.13.5 2.1.1.22 3.4.13.18 6.3...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00350">saw00350</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Tyrosine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C04185 (5,6-Dihydroxyindole-2-carboxylate) C06044 (4-Hydroxyphenylethanol) C06046 (Salidroside) C041...</td>
+<td class="data1" bgcolor="#FFFFFF">DHICA 5.3.3.12 Isoquinoline alkaloid  biosynthesis 4-Hydroxy-phenylethanol Salidroside DDT  degradat...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00360">saw00360</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Phenylalanine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C12621 (trans-3-Hydroxycinnamate) C00084 (Acetaldehyde) C00022 (Pyruvate) C03589 (4-Hydroxy-2-oxopen...</td>
+<td class="data1" bgcolor="#FFFFFF">4.1.3.39 4.3.1.25 Tropane, piperidine and  pyridine alkaloid biosynthesis 1.2.1.5 6.2.1.30 2.3.1.14 ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00362">saw00362</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Benzoate degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C04553 (3-Carboxy-2,5-dihydro-5-oxofuran-2-acetate) C04451 (4-Carboxy-2-hydroxyhexa-2,4-dienedioate)...</td>
+<td class="data1" bgcolor="#FFFFFF">BENZOATE  DEGRADATION   3-Carboxy-2,5-dihydro-5-oxofuran-2-acetate 1.14.13.33 1.14.13.2 4-Carboxy-2-...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00380">saw00380</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Tryptophan metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C05663 (6-Hydroxykynurenate) C05639 (4,6-Dihydroxyquinoline) C05652 (4-(2-Amino-5-hydroxyphenyl)-2,4...</td>
+<td class="data1" bgcolor="#FFFFFF">1.11.1.6 1.1.1.35 1.13.11.52 4.1.1.74 Nicotinamide metabolism 2.6.1.27 1.4.3.2 1.13.11.52 1.14.14.1 ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00400">saw00400</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Phenylalanine, tyrosine and tryptophan biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00279 (D-Erythrose 4-phosphate) C00074 (Phosphoenolpyruvate) C04691 (2-Dehydro-3-deoxy-D-arabino-he...</td>
+<td class="data1" bgcolor="#FFFFFF">2.5.1.54 Phenylpropanoid biosynthesis Phenylpropanoid biosynthesis Biosynthesis of  siderophore grou...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00401">saw00401</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Novobiocin biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03319 (dTDP-6-deoxy-L-mannose) C12477 (3-Methylpyrrole-2,4-dicarboxylic acid) C12483 (Pyrrole-2-car...</td>
+<td class="data1" bgcolor="#FFFFFF">NovU CouN2 CouP CouM CouL CouL CloN6 CloN5 CloN4 CloN3 CloN7 CloN2 CloP CloM CloL Clohal CloU NovN N...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00410">saw00410</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">beta-Alanine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00429 (5,6-Dihydrouracil) C02642 (3-Ureidopropionate) C00099 (beta-Alanine) C00083 (Malonyl-CoA) C0...</td>
+<td class="data1" bgcolor="#FFFFFF">β-ALANINE  METABOLISM Propanoate metabolism Fatty acid biosynthesis Pantothenate and CoA biosynthesi...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00430">saw00430</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Taurine and hypotaurine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00094 (Sulfite) C06735 (Aminoacetaldehyde) C00041 (L-Alanine) C00022 (Pyruvate) C14179 (Sulfoacetat...</td>
+<td class="data1" bgcolor="#FFFFFF">1.14.11.17 Sulfur metabolism 1.1.2.- 1.2.1.73 1.4.1.1 Sulfite Aminoacetaldehyde L-Alanine Pyruvate S...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00450">saw00450</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Selenocompound metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C01528 (Hydrogen selenide) C05697 (Selenate) C05684 (Selenite) C05172 (Selenophosphoric acid) C06481...</td>
+<td class="data1" bgcolor="#FFFFFF">SELENOCOMPOUND  METABOLISM 1.8.1.9 2.7.9.3 2.1.1.12 4.4.1.11 6.1.1.10 Hydrogen  selenide Selenate Se...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00460">saw00460</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Cyanoamino acid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C05670 (3-Aminopropiononitrile) C01401 (Alanine) C00302 (DL-Glutamate) C05714 (alpha-Aminopropiononi...</td>
+<td class="data1" bgcolor="#FFFFFF">3-Aminopropiono-nitrile D-Alanine metabolism D-Gln &amp; D-Glu  metabolism D-Arg &amp; D-Orn metabolism 3.5....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00471">saw00471</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">D-Glutamine and D-glutamate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00064 (L-Glutamine) C00819 (D-Glutamine) C03933 (5-D-Glutamyl-D-glutamyl-peptide) C05723 (Poly-gamm...</td>
+<td class="data1" bgcolor="#FFFFFF">D-GLUTAMINE  AND  D-GLUTAMATE  METABOLISM Peptidoglycan biosynthesis Amino sugar and nucleotide suga...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00472">saw00472</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">D-Arginine and D-ornithine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03564 (1-Pyrroline-2-carboxylate) C01110 (5-Amino-2-oxopentanoic acid) C03341 (2-Amino-4-oxopentano...</td>
+<td class="data1" bgcolor="#FFFFFF">D-ARGININE  AND D-ORNITHINE  METABOLISM 1.4.1.12 5.4.3.5 1.4.3.3 2.6.1.21 5.1.1.10 5.1.1.9 5.1.1.12 ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00473">saw00473</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">D-Alanine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00041 (L-Alanine) C00133 (D-Alanine) C00993 (D-Alanyl-D-alanine) C00022 (Pyruvate) C04260 (O-D-Alan...</td>
+<td class="data1" bgcolor="#FFFFFF">D-ALANINE  METABOLISM Peptideglycan  metabolism D-Arginine and  D-ornithine metabolism Cyanoamino ac...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00480">saw00480</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Glutathione metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00024 (Acetyl-CoA) C00151 (L-Amino acid) C01879 (Pidolic acid) C00097 (L-Cysteine) C00025 (L-Glutam...</td>
+<td class="data1" bgcolor="#FFFFFF">Acetyl-CoA GLUTATHIONE  METABOLISM Glutamate  metabolism Taurine and  hypotaurine   metabolism Cyano...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00500">saw00500</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Starch and sucrose metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00092 (D-Glucose 6-phosphate) C00668 (alpha-D-Glucose 6-phosphate) C02336 (beta-D-Fructose) C00181 ...</td>
+<td class="data1" bgcolor="#FFFFFF">3.6.1.21 D-Glucose-6P 3.2.1.21 3.2.1.21 2.7.1.1 3.2.1.122 STARCH  AND  SUCROSE  METABOLISM 3.2.1.37 ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00520">saw00520</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Amino sugar and nucleotide sugar metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00357 (N-Acetyl-D-glucosamine 6-phosphate) C00140 (N-Acetyl-D-glucosamine) C04501 (N-Acetyl-alpha-D...</td>
+<td class="data1" bgcolor="#FFFFFF">1.1.1.- 5.1.3.- 2.7.1.43 2.7.7.44 2.7.1.44 2.7.1.59 5.4.2.3 2.7.7.23 5.1.3.14 2.7.1.60 2.5.1.57 3.1....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00521">saw00521</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Streptomycin biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Streptomycin is an aminocyclitol-aminoglycoside antibiotic produced by Streptomyces griseus. Strepto...</td>
+<td class="data1" bgcolor="#FFFFFF">C01214 (1-Amino-1-deoxy-scyllo-inositol) C03319 (dTDP-6-deoxy-L-mannose) C06592 (NDP-N-methyl-L-gluc...</td>
+<td class="data1" bgcolor="#FFFFFF">Aminoglycosides 2.7.1.2 2.7.1.1 Polyketide sugar unit biosynthesis scyllo-Inosamine 2.7.1.65 3.1.3.2...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00550">saw00550</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Peptidoglycan biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Peptidoglycan is a macromolecule made of long aminosugar strands cross-linked by short peptides. It ...</td>
+<td class="data1" bgcolor="#FFFFFF">C00043 (UDP-N-acetyl-alpha-D-glucosamine) C01050 (UDP-N-acetylmuramate) C01212 (UDP-N-acetylmuramoyl...</td>
+<td class="data1" bgcolor="#FFFFFF">6.3.2.10 UDP-GlcNAc PEPTIDOGLYCAN  BIOSYNTHESIS Aminosugar metabolism 3.6.1.27 2.4.1.227 2.7.8.13 6....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00561">saw00561</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Glycerolipid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00422 (Triacylglycerol) C00641 (1,2-Diacyl-sn-glycerol) C00111 (Glycerone phosphate) C00093 (sn-Gly...</td>
+<td class="data1" bgcolor="#FFFFFF">2.3.1.158 SQD1 SQD2 2.4.1.241 2.4.99.5 Glycerophospholipid metabolism 3.1.1.3 2.3.1.20 2.4.1.46 2.4....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00562">saw00562</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Inositol phosphate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C11557 (1-Phosphatidyl-1D-myo-inositol 5-phosphate) C11555 (1D-myo-Inositol 1,4,5,6-tetrakisphosphat...</td>
+<td class="data1" bgcolor="#FFFFFF">1-Phosphatidyl-1D-myo -inositol-5P 2.7.1.149 1D-myo -Inositol  1,4,5,6P 3.1.3.36 2.7.1.151 2.7.1.151...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00564">saw00564</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Glycerophospholipid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C06771 (Triethanolamine) C06772 (Diethanolamine) C00084 (Acetaldehyde) C00641 (1,2-Diacyl-sn-glycero...</td>
+<td class="data1" bgcolor="#FFFFFF">Ether lipid metaboilsm 2.7.8.29 Ptdss1 Glycolysis 1.1.3.21 GPI-anchor biosynthesis Triethanolamine D...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00590">saw00590</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Arachidonic acid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03577 (20-Hydroxyleukotriene E4) C14811 (Trioxilin B3) C14809 (Trioxilin A3) C14810 (Hepoxilin B3) ...</td>
+<td class="data1" bgcolor="#FFFFFF">Eicosanoids 3.3.2.10 3.3.2.10 3.3.2.10 3.3.2.10 1.14.13.34 20-OH-LTE Trioxilin B Trioxilin A Hepoxil...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00592">saw00592</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">alpha-Linolenic acid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C11512 (Methyl jasmonate) C16318 ((+)-7-Isomethyljasmonate) C08491 ((-)-Jasmonic acid) C16317 ((+)-7...</td>
+<td class="data1" bgcolor="#FFFFFF">MFP2 MFP2 MFP2 HPL1 ACX ACX 2.3.1.16 2.3.1.16 4.2.1.92 1.13.11.12 (-)-Methyl-jasmonate (+)-7-Isometh...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00620">saw00620</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Pyruvate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C15973 (Enzyme N6-(dihydrolipoyl)lysine) C15972 (Enzyme N6-(lipoyl)lysine) C16255 ([Dihydrolipoyllys...</td>
+<td class="data1" bgcolor="#FFFFFF">Nicotinate and nicotinamide  metabolism 1.2.4.1 Citrate cycle Glycine, serine and  threonine metabol...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00621">saw00621</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Dioxin degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C18103 (1,2,3,4,6,7,8-Heptachlorodibenzodioxin) C18101 (1,2,3,6,7,8-Hexachlorodibenzodioxin) C18099 ...</td>
+<td class="data1" bgcolor="#FFFFFF">CarC 4.1.3.39 PCDD 73 PCDD 67 PCDD 54 PCB 105 PCB 118 PCB 156 PCB 167 PCB 126 PCB 81 PCB 169 PCB 114...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00622">saw00622</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Xylene degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C06757 (4-Methylbenzyl alcohol) C06720 (1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate) C06731...</td>
+<td class="data1" bgcolor="#FFFFFF">1.14.12.- 1.14.12.- 1.14.12.- 4-Methylbenzyl-alcohol 1,2-Dihydroxy-3-methylcyclohexa-3,5-dienecarbox...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00625">saw00625</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Chloroalkane and chloroalkene degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C01380 (Ethylene glycol) C06548 (Ethylene oxide) C06547 (Ethylene) C06793 (Vinyl chloride) C06791 (t...</td>
+<td class="data1" bgcolor="#FFFFFF">1.97.1.- 1.97.1.- 1.97.1.- 1.97.1.8 1.97.1.8 1.97.1.8 1.18.6.1 Ethylene glycol 1.1.1.- 3.3.2.10 1.14...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00626">saw00626</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Naphthalene degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00091 (Succinyl-CoA) C03203 (1-Hydroxy-2-naphthoate) C14101 (2-Naphthoic acid) C14099 (2-Naphthalde...</td>
+<td class="data1" bgcolor="#FFFFFF">NmoAB 2.8.3.- Succinyl-CoA 1-Hydroxy-2-naphthoate 2-Naphthoate 2-Naphthaldehyde 2-Hydroxymethyl-naph...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00627">saw00627</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Aminobenzoate degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00568 (4-Aminobenzoate) C00230 (3,4-Dihydroxybenzoate) C07103 (2-Hydroxy-1,4-benzoquinone) C03360 (...</td>
+<td class="data1" bgcolor="#FFFFFF"> AMINOBENZOATE  DEGRADATION 4-Aminobenzoate 1.14.12.- 1.7.1.- 3,4-Dihydroxybenzoate 3.1.8.1 2-Hydrox...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00630">saw00630</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Glyoxylate and dicarboxylate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00898 ((R,R)-Tartaric acid) C00036 (Oxaloacetate) C00158 (Citrate) C00149 ((S)-Malate) C04348 ((3S)...</td>
+<td class="data1" bgcolor="#FFFFFF">5.3.1.22 4.2.1.3 2.2.1.5 2.3.3.12 2.3.3.7 4.1.3.13 4.1.3.16 4.1.3.1 3.5.1.68 3.5.1.56 3.5.1.49 3.5.1...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00640">saw00640</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Propanoate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C04225 ((Z)-But-2-ene-1,2,3-tricarboxylate) C02614 ((S)-2-Methylmalate) C00109 (2-Oxobutanoate) C028...</td>
+<td class="data1" bgcolor="#FFFFFF">2.3.1.8 2.3.1.54 2.7.2.15 4.2.1.79 4.2.1.99 2-Methyl-cis-aconitate 3-Chloroacrylic acid  degradation...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00642">saw00642</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Ethylbenzene degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00512 (S-Benzoate coenzyme A) C07118 (Benzoyl acetyl-CoA) C07114 (3-Oxo-3-phenylpropanoate) C07189 ...</td>
+<td class="data1" bgcolor="#FFFFFF">2.3.1.16 Benzoyl-CoA EtbA 1.3.1.66 1.17.99.2 1.14.12.12 1.14.12.12 1.14.12.12 Benzoyl acetyl-CoA Ben...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00650">saw00650</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Butanoate metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03046 ((S,S)-Butane-2,3-diol) C01769 ((S)-Acetoin) C00810 ((R)-Acetoin) C03044 ((R,R)-Butane-2,3-di...</td>
+<td class="data1" bgcolor="#FFFFFF">Biosynthesis of type II  polyketide backbone 4.2.1.27 1.1.1.30 3.1.1.22 2.8.3.5 6.2.1.16 4.1.3.4 2.3...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00660">saw00660</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">C5-Branched dibasic acid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00810 ((R)-Acetoin) C06010 ((S)-2-Acetolactate) C01011 ((3S)-Citramalyl-CoA) C00531 (Itaconyl-CoA) ...</td>
+<td class="data1" bgcolor="#FFFFFF">Nicotinate and nicotinamide  metabolism Valine, leucine  and isoleucine  biosynthesis 2.3.3.11 Alani...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00670">saw00670</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">One carbon pool by folate - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00504 (Folate) C00415 (Dihydrofolate) C03479 (Folinic acid) C00143 (5,10-Methylenetetrahydrofolate)...</td>
+<td class="data1" bgcolor="#FFFFFF">ONE  CARBON  POOL  BY  FOLATE Folate biosynthesis 2.1.2.5 2.1.2.4 2.1.2.2 4.3.1.4 1.5.1.15 1.5.1.3 1...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00680">saw00680</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Methane metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Methane is metabolized principally by methanotrophs and the methanogens in the global carbon cycle. ...</td>
+<td class="data1" bgcolor="#FFFFFF">C00037 (Glycine) C04348 ((3S)-3-Carboxy-3-hydroxypropanoyl-CoA) C00168 (Hydroxypyruvate) C00074 (Pho...</td>
+<td class="data1" bgcolor="#FFFFFF">6.2.1.1 1.2.7.1 1.12.1.2 4.1.1.31 2.6.1.45 1.1.1.29 6.2.1.9 CDH 1.2.7.4 4.1.3.24 1.2.1.43 2.3.1.169 ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00730">saw00730</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Thiamine metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00037 (Glycine) C00082 (L-Tyrosine) C15809 (Iminoglycine) C11437 (1-Deoxy-D-xylulose 5-phosphate) C...</td>
+<td class="data1" bgcolor="#FFFFFF">Glycine L-Tyrosine Imino-glycine 1-Deoxy-D-xylulose  5-phosphate [ThiS]-COSS-[ThiF] [ThiS]-COSH [Thi...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00740">saw00740</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Riboflavin metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C15556 (L-3,4-Dihydroxybutan-2-one 4-phosphate) C00199 (D-Ribulose 5-phosphate) C00044 (GTP) C01304 ...</td>
+<td class="data1" bgcolor="#FFFFFF">3,4-Dihydroxy-2-butanone-4-phosphate Ribulose 5-phosphate Pentose phosphate pathway RIBOFLAVIN  META...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00750">saw00750</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Vitamin B6 metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00118 (D-Glyceraldehyde 3-phosphate) C00199 (D-Ribulose 5-phosphate) C07335 (2-Amino-3-oxo-4-phosph...</td>
+<td class="data1" bgcolor="#FFFFFF">Glyceraldehyde 3-phosphate Ribulose 5-phosphate YaaE YaaD Glycolysis Pentose phosphate pathway (2S)-...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00760">saw00760</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Nicotinate and nicotinamide metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C06178 (1-Methylpyrrolinium) C15523 (2,6-Dihydroxynicotinate) C00022 (Pyruvate) C00163 (Propanoate) ...</td>
+<td class="data1" bgcolor="#FFFFFF">Tropane, piperidine and pyridine alkaloid biosynthesis 1.5.99.4 Pyruvate metabolism C5-Branched diba...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00770">saw00770</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Pantothenate and CoA biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03688 (Apo-[acyl-carrier-protein]) C00022 (Pyruvate) C00900 (2-Acetolactate) C04039 (2,3-Dihydroxy-...</td>
+<td class="data1" bgcolor="#FFFFFF">Apo-[acp] PANTOTHENATE AND CoA BIOSYNTHESIS Alanine, aspartate and  glutamate metabolism Propanoate ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00780">saw00780</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Biotin metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C02656 (Pimelate) C01063 (6-Carboxyhexanoyl-CoA) C01092 (8-Amino-7-oxononanoate) C01909 (Dethiobioti...</td>
+<td class="data1" bgcolor="#FFFFFF">Tropane, piperidine and pyridine alkaloid biosynthesis BIOTIN  METABOLISM Lysine degradation Pimelat...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00785">saw00785</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Lipoic acid metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C16239 (Lipoyl-[acp]) C05752 (Octanoyl-[acp]) C00725 (Lipoate) C16238 (Lipoyl-AMP) C16236 (Protein N...</td>
+<td class="data1" bgcolor="#FFFFFF">2.8.1.8 2.3.1.181 Lipoyl-[acp] 2.7.7.63 LIPOIC  ACID  METABOLISM Fatty acid  biosynthesis 2.8.1.8 2....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00790">saw00790</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Folate biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C11355 (4-Amino-4-deoxychorismate) C00251 (Chorismate) C00044 (GTP) C04895 (7,8-Dihydroneopterin 3&#39;-...</td>
+<td class="data1" bgcolor="#FFFFFF">4-Amino-4-deoxychorismate Chorismate FOLATE  BIOSYNTHESIS One carbon pool by folate Phenylalanine bi...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00860">saw00860</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Porphyrin and chlorophyll metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C05774 (Cobinamide) C16243 (Cobalt-precorrin 5B) C16244 (Cobalt-precorrin 7) C15670 (Heme A) C15672 ...</td>
+<td class="data1" bgcolor="#FFFFFF">3.1.1.82 Cobinamide Co-Precorrin 5B Co-Precorrin 7 Heme A Heme O Glycine 1.3.1.75 1.3.99.22 (R)-1-Am...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00900">saw00900</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Terpenoid backbone biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Terpenoids, also known as isoprenoids, are a large class of natural products consisting of isoprene ...</td>
+<td class="data1" bgcolor="#FFFFFF">C05859 (Dehydrodolichol diphosphate) C00621 (Dolichyl diphosphate) C00022 (Pyruvate) C00024 (Acetyl-...</td>
+<td class="data1" bgcolor="#FFFFFF">MEP/DOXP pathway Mevalonate pathway Dehydro dolichol-PP Dolichol-PP Glycolysis TERPENOID  BACKBONE  ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00903">saw00903</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Limonene and pinene degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C11950 (3-Isopropyl-3-butenoic acid) C11949 (3-Isopropylbut-3-enoyl-CoA) C11948 (2,6-Dimethyl-5-meth...</td>
+<td class="data1" bgcolor="#FFFFFF">3-Isopropylbut-3-enoic acid 3-Isopropylbut-3-enoyl-CoA 2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00906">saw00906</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Carotenoid biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C16486 (Astaxanthin diester) C16340 (beta-Isorenieratene) C16291 (7,8-Dihydro-beta-carotene) C05434 ...</td>
+<td class="data1" bgcolor="#FFFFFF">Astaxanthin diester CrtF β-Isorenieratene 7,8-Dihydro-β-carotene β-Zeacarotene CrtU CruD CruC CrtL-b...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00910">saw00910</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Nitrogen metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The biological process of the nitrogen cycle is a complex interplay among many microorganisms cataly...</td>
+<td class="data1" bgcolor="#FFFFFF">C00037 (Glycine) C00058 (Formate) C00488 (Formamide) C01417 (Cyanate) C00011 (CO2) C01353 (Carbonic ...</td>
+<td class="data1" bgcolor="#FFFFFF">Fdh Glycine NITROGEN  METABOLISM Methane metabolism Glyoxylate metabolism 6.3.4.16 2.7.2.2 Arginine ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00920">saw00920</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Sulfur metabolism - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C00065 (L-Serine) C00979 (O-Acetyl-L-serine) C00097 (L-Cysteine) C00033 (Acetate) C00155 (L-Homocyst...</td>
+<td class="data1" bgcolor="#FFFFFF">3.1.3.7 2.5.1.65 1.8.7.1 SULFUR  METABOLISM : REDUCTION  AND  FIXATION Cysteine and methionine  meta...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw00970">saw00970</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Aminoacyl-tRNA biosynthesis - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C06113 (L-Aspartyl-tRNA(Asn)) C02992 (L-Threonyl-tRNA(Thr)) C02839 (L-Tyrosyl-tRNA(Tyr)) C00078 (L-T...</td>
+<td class="data1" bgcolor="#FFFFFF">L-Aspartyl-tRNA(Asn) 6.1.1.5 AMINOACYL-tRNA  BIOSYNTHESIS 6.1.1.22 6.1.1.21 6.1.1.20 6.1.1.19 6.1.1....</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw01040">saw01040</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Biosynthesis of unsaturated fatty acids - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C16533 (13,16-Docosadienoic acid) C16645 ((13Z,16Z)-Docosadi-13,16-enoyl-CoA) C16645 ((13Z,16Z)-Doco...</td>
+<td class="data1" bgcolor="#FFFFFF">Docosadienoic acid Δ13,16 Δ13,16 3.1.2.- YciA TesB TesB TesB TesA TesA TesA 3.1.2.- 3.1.2.- 3.1.2.- ...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw01100">saw01100</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Metabolic pathways - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C03291 (L-Xylulose 5-phosphate) C14899 (3-Dehydro-L-gulonate 6-phosphate) C03383 (D-Galactono-1,4-la...</td>
+<td class="data1" bgcolor="#FFFFFF">Sesquiterpenoid  and triterpenoid biosynthesis Urea cycle  Polycyclic aromatic  hydrocarbon degradat...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw01110">saw01110</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Biosynthesis of secondary metabolites - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C16850 (2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid) C12476 (Descarbamoylnovobiocin) C12475 (De...</td>
+<td class="data1" bgcolor="#FFFFFF">Indole alkaloid  biosynthesis Type I polyketide  structures Porphyrin and  chlorophyll metabolism Di...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw01120">saw01120</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Microbial metabolism in diverse environments - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">C05554 (Aerobactin) C02632 (2-Methylpropanoate) C06582 (2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate) C...</td>
+<td class="data1" bgcolor="#FFFFFF">Xylene degradation Glyoxylate and  dicarboxylate  metabolism Aminobenzoate  degradation Nicotinate a...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw02010">saw02010</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">ABC transporters - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The ATP-binding cassette (ABC) transporters form one of the largest known protein families, and are ...</td>
+<td class="data1" bgcolor="#FFFFFF">C16421 (AI-2) C01684 (D-Rhamnose) C00095 (D-Fructose) C01487 (D-Allose) C00181 (D-Xylose) C03619 (Me...</td>
+<td class="data1" bgcolor="#FFFFFF">GguA GguB ChvE LsrA LsrD LsrC LsrB Autoinducer 2 RhaT RhaQ RhaP RhaS Rhamnose FrcA FrcC FrcB Fructos...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw02020">saw02020</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Two-component system - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Two-component signal transduction systems enable bacteria to sense, respond, and adapt to changes in...</td>
+<td class="data1" bgcolor="#FFFFFF">C00164 (Acetoacetate) C00038 (Zinc cation), C06696 (Lead) C00244 (Nitrate), C00088 (Nitrite) C00031 ...</td>
+<td class="data1" bgcolor="#FFFFFF">NarI NarJ NarH NarG Bacterial chemotaxis MCP PilA RpoN PilS PilI CheW SdiA Acetoacetate Zn / Pb Nitr...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw02060">saw02060</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Phosphotransferase system (PTS) - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The phosphoenolpyruvate (PEP)-dependent phosphotransferase system (PTS) is a major mechanism used by...</td>
+<td class="data1" bgcolor="#FFFFFF">C06377 (D-Galactosamine 6-phosphate) C11544 (2(alpha-D-Mannosyl)-D-glycerate) C01083 (alpha,alpha-Tr...</td>
+<td class="data1" bgcolor="#FFFFFF">Galactosamine 6-phosphate 2-O-α-Mannosyl-D-glycerate Trehalose Arbutin / Salicin Trehalose 6-phospha...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03010">saw03010</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Ribosome - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_0542 SAHV_r0003, SAHV_r0004, SAHV_r0007, SAHV_r0008, SAHV_r0011, SAHV_r0014 SAHV_r0002, SAHV_r0...</td>
+<td class="data1" bgcolor="#FFFFFF">S22 L7A S30e L13e L28e S14e S23e S18e S29e S13e S11e S15e S6e S8e S17e S19e S24e S27e S27Ae S7e S10e...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03018">saw03018</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">RNA degradation - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The correct processing, quality control and turnover of cellular RNA molecules are critical to many ...</td>
+<td class="data1" bgcolor="#FFFFFF">C00201 (Nucleoside triphosphate) SAHV_0773 (eno) SAHV_1264 (pnpA) SAHV_0777 SAHV_0718 (recQ), SAHV_1...</td>
+<td class="data1" bgcolor="#FFFFFF"> RNA helicase  RNase E  Catalytic domain  C-terminal domain  Degradosome component interaction RNA d...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03020">saw03020</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">RNA polymerase - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF"></td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_0540 (rpoB) SAHV_0541 (rpoC) SAHV_2208 (rpoA) SAHV_1200 (rpoZ) SAHV_2112 (rpoE) saw03020: RNA p...</td>
+<td class="data1" bgcolor="#FFFFFF">RNA  POLYMERASE β&#39; ABC1 ABC2 ABC3 ABC5 B11 ABC4 AC1 C11 AC2 C25 C31 C34 A12 A14 A34 A43 A49 RNA poly...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03030">saw03030</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">DNA replication - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">A complex network of interacting proteins and enzymes is required for DNA replication. Generally, DN...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_0363 (ssb), SAHV_0859, SAHV_1969, SAHV_2081 SAHV_1549 (dnaG) SAHV_1254 (polC), SAHV_1689 (dnaE)...</td>
+<td class="data1" bgcolor="#FFFFFF">Lig1 Fen1 Dna2 RNaseH2A RNaseH2B RFC2/4 RNaseH2C RFC3/5 PCNA RPA3 Mcm5 δ4 δ3 ε4 ε3 SSB DnaG DNA  REP...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03060">saw03060</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Protein export - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">The protein export is the active transport of proteins from the cytoplasm to the exterior of the cel...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_2075 SAHV_0343 SAHV_0344 SAHV_0750 (secA), SAHV_2633 SAHV_2214 (secY), SAHV_2637 (secY) SAHV_05...</td>
+<td class="data1" bgcolor="#FFFFFF">TatE Ffs YidC TatB TatC TatA SecA SecY SecE SecG SecD/F YajC SPase I SPase II SRP14 SRP72 SRP68 SRP5...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03070">saw03070</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Bacterial secretion system - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Gram-negative bacteria secrete a wide range of proteins whose functions include biogenesis of organe...</td>
+<td class="data1" bgcolor="#FFFFFF">C00002 (ATP) C00002 (ATP) C00002 (ATP) C00002 (ATP) C00002 (ATP) C00002 (ATP) C00002 (ATP) C00002 (A...</td>
+<td class="data1" bgcolor="#FFFFFF">Type I Type III Type II Type Va Type IV Type VI TolC HlyD HlyB YscC GspGHIJK GspD TatABCE SecDEFGY Y...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03410">saw03410</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Base excision repair - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Base excision repair (BER) is the predominant DNA damage repair pathway for the processing of small ...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_1889 (dnlJ) SAHV_1676 (polA) SAHV_1676 (polA) SAHV_1676 (polA) SAHV_1544 SAHV_1853 SAHV_0579 (u...</td>
+<td class="data1" bgcolor="#FFFFFF">APEX Fen1 PARP Lig1 Lig3 Lig polε polδ polβ polβ polβ polβ PCNA PCNA PCNA DpoI DpoI DpoI APE2 APE1 N...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03420">saw03420</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Nucleotide excision repair - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Nucleotide excision repair (NER) is a mechanism to recognize and repair bulky DNA damage caused by c...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_0755 (uvrB) SAHV_0756 (uvrA) SAHV_1889 (dnlJ) SAHV_1676 (polA) SAHV_0756 (uvrA) SAHV_1890 (pcrA...</td>
+<td class="data1" bgcolor="#FFFFFF">5 &#39; 3 &#39; 3 &#39; 5 &#39; 5 &#39; 3 &#39; 3 &#39; 5 &#39; TFIIH4 TFIIH3 TFIIH2 TFIIH1 XPD TTDA XPB CCNH MNAT1 CDK7 DDB1 Cul4 R...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03430">saw03430</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Mismatch repair - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">DNA mismatch repair (MMR) is a highly conserved biological pathway that plays a key role in maintain...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_1135 (mutS2), SAHV_1285 (mutS) SAHV_1286 (mutL) SAHV_1889 (dnlJ) SAHV_1890 (pcrA) SAHV_0002 (dn...</td>
+<td class="data1" bgcolor="#FFFFFF">Dam MutS MSH2 MLH3 MLH1 Colorectal cancer MutH MutL Lig UVRD MLH1 LigI PCNA DpoIII ExoI polδ RPA Exo...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw03440">saw03440</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Homologous recombination - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Homologous recombination (HR) is essential for the accurate repair of DNA double-strand breaks (DSBs...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_1606 SAHV_1217 (recG) SAHV_1217 (recG) SAHV_1628 (ruvB) SAHV_1628 (ruvB) SAHV_1629 (ruvA) SAHV_...</td>
+<td class="data1" bgcolor="#FFFFFF">TOP3 BLM DSS1 Rad52 Mre11 Rad50 XRCC3 Rad51C XRCC2 XRCC2 Rad51D Rad51D Rad51C Rad51B Rad51C DnaT Pri...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw04122">saw04122</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Sulfur relay system - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Ubiquitin and ubiquitin-like proteins (Ubls) are signalling messengers that control many cellular fu...</td>
+<td class="data1" bgcolor="#FFFFFF">C00097 (L-Cysteine) C00041 (L-Alanine) C00868 (tRNA uridine) C17322 (tRNA containing 2-thiouridine) ...</td>
+<td class="data1" bgcolor="#FFFFFF">SULFUR  RELAY  SYSTEM E1-like urm1 -COOH ATP PPi -COAMP Protein modification Prokaryote Ahp1  -NHCO-...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw05100">saw05100</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Bacterial invasion of epithelial cells - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Many pathogenic bacteria can invade phagocytic and non-phagocytic cells and colonize them intracellu...</td>
+<td class="data1" bgcolor="#FFFFFF">SAHV_2487 (fnb) SAHV_2486 (fnbB) saw05100: Bacterial invasion of epithelial cells map04512: ECM-rece...</td>
+<td class="data1" bgcolor="#FFFFFF">BACTERIAL  INVASION  OF  EPITHELIAL CELLS ECM-receptor     interaction   Regulation of  actin cytosk...</td>
+</tr>
+
+<tr>
+<!--
+<td class="data1">
+-->
+<td bgcolor="#FFFFFF">
+<a target="_blank" href="http://www.genome.jp/dbget-bin/www_bget?pathway:saw05150">saw05150</a>
+</td>
+
+<td class="data1" bgcolor="#FFFFFF">Staphylococcus aureus infection - Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA)</td>
+<td class="data1" bgcolor="#FFFFFF">Staphylococcus aureus can cause multiple forms of infections ranging from superficial skin infection...</td>
+<td class="data1" bgcolor="#FFFFFF">C11596 (FMLP) C06042 (Lipoteichoic acid) C16059 (Defensin beta-1), C16060 (Defensin beta-2), C16061 ...</td>
+<td class="data1" bgcolor="#FFFFFF">C1S C1R C1Q MBL MASP1/2 STAPHYLOCOCCUS  AUREUS  INFECTION Alternative pathway Lectin pathway Classic...</td>
+</tr>
+
+</table>
