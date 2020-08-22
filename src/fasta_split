@@ -1,0 +1,20 @@
+#!/usr/bin/python
+
+from Bio import SeqIO
+import sys
+
+size=int(sys.argv[2])
+cur=0
+block=0
+suffix = sys.argv[3]
+out=open(suffix+str(block)+".fasta",'w')
+for record in SeqIO.parse(sys.argv[1],'fasta'):
+    cur=cur+1
+    SeqIO.write(record,out,'fasta')
+    if cur==size:
+        out.close()
+        out=open(suffix+str(block)+".fasta",'w')
+        block=block+1
+        cur=0
+
+out.close()

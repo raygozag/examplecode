@@ -1,0 +1,14 @@
+#!/usr/bin/python
+
+from Bio import SeqIO
+import sys
+
+
+filter=int(sys.argv[2])
+out=open(sys.argv[3],'w')
+
+for record in SeqIO.parse(sys.argv[1],'fasta'):
+    if len(str(record.seq))>=filter:
+        SeqIO.write(record,out,'fasta')
+    
+out.close()

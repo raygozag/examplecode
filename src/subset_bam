@@ -1,0 +1,9 @@
+#!/bin/bash
+
+samtools view -H ${1} > /tmp/sub.sam
+
+samtools view -h ${1} | awk '$4>='${2}' && $4<='$3''>> /tmp/sub.sam 
+
+samtools view -bS /tmp/sub.sam > ${4}
+
+samtools index ${4}

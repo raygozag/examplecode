@@ -1,0 +1,10 @@
+set -e
+
+#download_sra ${1}
+#fastq-dump --split-files ${1}.sra
+kneaddata -i ${1}_1.fastq -i ${1}_2.fastq 	-db ~/humannomito  -o clean --bowtie2-options "--very-sensitive -p 6"  
+#--trimmomatic "/home/raygozag/Trimmomatic-0.38" 
+mv clean/${1}_1_kneaddata_paired_1.fastq m1.fastq
+mv clean/${1}_1_kneaddata_paired_2.fastq m2.fastq
+#rm -rf clean
+#~/src/a5_sub m1.fastq m2.fastq ${2}

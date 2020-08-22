@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ samtools view -hF 0x04 $1 > /tmp/$1.tmp
+samtools view -S -b /tmp/$1.tmp > /tmp/$1.tmp.bam
+samtools sort /tmp/$1.tmp.bam -o $2

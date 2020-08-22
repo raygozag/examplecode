@@ -1,0 +1,10 @@
+#!/usr/bin/python
+
+from Bio import SeqIO
+import sys
+
+total=0
+for record in SeqIO.parse(sys.argv[1],'fasta'):
+    total=total+len(str(record.seq))
+
+print(total)

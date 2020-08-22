@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+esearch -db nucleotide -query ${1} | efetch -f gb > ${1}.gbk

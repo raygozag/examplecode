@@ -1,0 +1,8 @@
+from Bio import SeqIO
+import sys
+
+k=0
+for record in SeqIO.parse(sys.argv[1],'fasta'):
+	k=k+len(str(record.seq))
+
+print(k)

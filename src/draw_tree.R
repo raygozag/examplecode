@@ -1,0 +1,10 @@
+library("ggtree")
+library('ggplot2')
+args = commandArgs(trailingOnly=TRUE)
+id=args[1]
+tree <- read.tree(paste0(id,'.newick'))
+print(getwd())
+png(paste0(id,".png"),width = 1000,height=1000,res=200)
+#tree=groupClade(tree,node = c(11))
+ggtree(tree)+geom_text2(aes(subset=!isTip, label=node), hjust=-.3) + geom_tiplab()+geom_treescale()+ggplot2::xlim(0, 4)
+dev.off()

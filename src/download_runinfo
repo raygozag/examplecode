@@ -1,0 +1,3 @@
+#!/bin/bash
+
+esearch -db sra -q ${1} | efetch -format runinfo

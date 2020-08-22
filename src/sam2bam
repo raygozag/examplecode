@@ -1,0 +1,11 @@
+#!/bin/bash
+
+name=$(echo ${1}|awk -F'.' '{print $1}')
+
+samtools view -bS ${name}.sam > /tmp/${name}.bam
+
+samtools sort -o ${name}.bam /tmp/${name}.bam
+
+samtools index ${name}.bam
+
+rm /tmp/${name}.bam

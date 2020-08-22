@@ -1,0 +1,8 @@
+from Bio import SeqIO
+import sys
+
+for record in SeqIO.parse(sys.argv[1],'fasta'):
+	seq=str(record.seq).lower()
+	seq=seq.replace("a","").replace("c","").replace("t","").replace("g","")
+	if len(seq)>0:
+		print(record.id+"\t"+str(seq))
